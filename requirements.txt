@@ -1,0 +1,6 @@
+pandas
+numpy
+selenium
+webdriver_manager
+gcloud
+apache-airflow-providers-google
